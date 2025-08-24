@@ -4,13 +4,6 @@
 ```markdown
 # 🚀 HyperLearn - Interactive Hyperliquid Developer Academy
 
-[![Deploy to Netlify](https://img.shields.io/badge/Deploy%20to-Netlify-00C7B7?style=for-the-badge&logo=netlify)](https://app.netlify.com/start/deploy?repository=https://github.com/rajgottipati/hyperlearn)
-[![Live Demo](https://img.shields.io/badge/🌐%20Live%20Demo-hyperlearn.araisolutions.com.au-blue?style=for-the-badge)](https://hyperlearn.araisolutions.com.au)
-
-> **The definitive educational platform for Hyperliquid developers** - Interactive tutorials, real-time API integration, and production-ready tools for building on Hyperliquid.
-
-![HyperLearn Dashboard](https://your-screenshot-url.com/dashboard.png)
-
 ## 🌟 **What Makes HyperLearn Special**
 
 ### 🎯 **Real API Integration - Not Mock Data**
