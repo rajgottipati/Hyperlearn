@@ -150,7 +150,7 @@ npm run dev
 
 ### Production URLs
 - **Main Site:** https://hyperlearn.araisolutions.com.au
-- **Backup:** https://hyperliquid-edu-dashboard.netlify.app
+
 
 ### Deployment Status
 - ✅ **SSL Certificates** - Automatic HTTPS
@@ -234,7 +234,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - **🐛 Bug Reports:** [GitHub Issues](https://github.com/rajgottipati/hyperlearn/issues)
 - **💬 Questions:** [GitHub Discussions](https://github.com/rajgottipati/hyperlearn/discussions)
-- **📧 Email:** support@araisolutions.com.au
+- **📧 Email:** contact@araisolutions.com.au, ozcsr007@gmail.com
 - **🌐 Website:** [araisolutions.com.au](https://araisolutions.com.au)
 
 ---
